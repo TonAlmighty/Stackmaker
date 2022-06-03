@@ -56,11 +56,10 @@
     <Analyzer Include="D:\Install\Visual Studio\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Materials\Test\TestRayCast.cs" />
-    <Compile Include="Assets\Scripts\PlayerController.cs" />
-    <Compile Include="Assets\Scripts\PlayerMovement.cs" />
-    <Compile Include="Assets\Scripts\Swipe.cs" />
-    <Compile Include="Assets\Scripts\SwipeTest.cs" />
+    <Compile Include="Assets\GamePlay\Materials\Test\TestRayCast.cs" />
+    <Compile Include="Assets\GamePlay\Scripts\CollectBrick.cs" />
+    <Compile Include="Assets\GamePlay\Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\GamePlay\Scripts\Swipe.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

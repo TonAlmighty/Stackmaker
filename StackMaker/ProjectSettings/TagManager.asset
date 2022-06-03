@@ -9,6 +9,8 @@ TagManager:
   - Inedible Block
   - Win
   - end
+  - Brick
+  - RemoveBrick
   layers:
   - Default
   - TransparentFX
